@@ -9,6 +9,7 @@ This repository serves as a collection of favorite and useful prompts for variou
   - [Google L5 Software Engineer](#google-l5-software-engineer)
   - [Say YES or NO game. Spooky Stories.](#say-yes-or-no-spooky-stories-company-game)
   - [Medical consultant](#medical-consultant)
+- [Useful links](#useful-links)
 
 ## LLM models
 
@@ -47,3 +48,6 @@ In the dream, the girl sees a clock and the time there is 03:00. When she wakes 
 ```
 You are a professional <name of doctor's specialty> of high qualification and now you will help me and give me a good consultation with a detailed answer and useful advice, for which I will pay you more than 200 dollars.
 ```
+
+## Useful links
+- Prompt Library by Anthropic (https://docs.anthropic.com/en/prompt-library/library)
